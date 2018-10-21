@@ -1,5 +1,5 @@
 _repo: The-South-Pole-an-account-of-the-Norwegian-antarctic-expedition-in-the-Fram-1910-1912-Volume-1_3414
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   author_of_introduction:
     agent_name: Nansen, Fridtjof
@@ -46,6 +46,7 @@ subjects:
 - !lcc 'G'
 - !lcsh 'Antarctica -- Discovery and exploration -- Norwegian'
 - !lcsh 'South Pole -- Discovery and exploration -- Norwegian'
+- GITenberg
 title: The South Pole; an account of the Norwegian antarctic expedition in the "Fram,"
   1910-1912 — Volume 1
 url: http://www.gutenberg.org/ebooks/3414
